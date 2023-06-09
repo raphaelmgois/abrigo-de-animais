@@ -1,0 +1,34 @@
+{
+    "expo": {
+        "name": "Abrigo da DOna Vera",
+        "slug": "abrigo-dona-vera",
+        "android": {
+            "package": "teste.raphael.aurora",
+            "versionCode": 1
+        },
+        "privacy": "public",
+        "sdkVersion": "36.0.0",
+        "platforms": [
+            "android",
+            "web"
+        ],
+        "version": "1.0.0",
+        "orientation": "portrait",
+        "icon": "./assets/images/ico.png",
+        "scheme": "myapp",
+        "splash": {
+            "image": "./assets/images/splash.png",
+            "resizeMode": "contain",
+            "backgroundColor": "#ffffff"
+        },
+        "updates": {
+            "fallbackToCacheTimeout": 0
+        },
+        "assetBundlePatterns": [
+            "**/*"
+        ],
+        "ios": {
+            "supportsTablet": false
+        }
+    }
+}

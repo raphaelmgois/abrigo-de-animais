@@ -1,0 +1,17 @@
+{
+    "expo": {
+        "name": "Abrigo da Dona Vera",
+        "icon": "./assets/images/ico.png",
+        "version": "1.0.3",
+        "slug": "Abrigo",
+        "android": {
+            "package": "teste.raphael.Abrigo",
+            "versionCode": 1
+        },
+        "description": "Abrigo de animais situado em Nova Iguaçu/RJ. Esse aplicativo tem intuito de aproximar seus colaboradores, oferecendo relatórios de despesas do abrigo."
+    },
+    "splash": {
+        "image": "./assets/images/ico.png",
+        "backgroundColor": "#b0e3fe"
+    }
+}
